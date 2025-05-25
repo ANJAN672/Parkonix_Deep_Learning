@@ -16,7 +16,7 @@ np.set_printoptions(suppress=True)
 # Define the layout of the app
 st.set_page_config(page_title="Parkonix", page_icon=":medical_symbol:")
 
-st.title("ParkiDetect")
+st.title("Parkonix")
 
 st.header(
     "Unveiling Parkinson's with Precision - 83% Accurate Detection Algorithm Trained on Spiral Sketches."
@@ -37,7 +37,7 @@ st.warning(
 with st.sidebar:
     img = Image.open("./Images/parkinson_disease_detection.jpg")
     st.image(img)
-    st.subheader("About ParkiDetect")
+    st.subheader("About Parkonix")
     link_text = "Distinguishing Different Stages of Parkinson’s Disease Using Composite Index of Speed and Pen-Pressure of Sketching a Spiral"
     link_url = "https://www.frontiersin.org/articles/10.3389/fneur.2017.00435/full"
     st.write(
