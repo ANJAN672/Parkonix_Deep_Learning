@@ -178,8 +178,8 @@ footer = """
 <div style="text-align: center; font-size: medium; margin-top:50px;">
     If you find Parkonix useful or interesting, please consider starring it on GitHub.
     <hr>
-    <a href="https://github.com/SaiJeevanPuchakayala/Parkonix" target="_blank">
-    <img src="https://img.shields.io/github/stars/SaiJeevanPuchakayala/Parkonix.svg?style=social" alt="GitHub stars">
+    <a href="https://github.com/ANJAN672/Parkonix_Deep_Learning" target="_blank">
+    <img src="https://img.shields.io/github/stars/ANJAN672/Parkonix_Deep_Learning.svg?style=social" alt="GitHub stars">
   </a>
 </div>
 """
